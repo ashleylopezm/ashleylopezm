@@ -1,4 +1,4 @@
-# Here comes all about me...
+# Here comes all about me... 👀
 
 Hi there! I'm Ashley, a current 3rd year college student at Northeastern University where I'm pursuing a Bachelor of Science in Computer Science and Criminal Justice with a minor in Managment Systems Information. My educational journey has been driven by a strong belief in the transformative power of education and that there is no limit on what to learn. My goal is to work in machine learning and computer vision and apply it to law here in the United States. More about me is that I love to hike, cook, and go to the gym.
 
